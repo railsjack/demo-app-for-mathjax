@@ -5032,10 +5032,10 @@ react-is@^16.12.0, react-is@^16.8.1, react-is@^16.8.4, react-is@^16.8.6:
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-16.13.1.tgz#789729a4dc36de2999dc156dd6c1d9c18cea56a4"
   integrity sha512-24e6ynE2H+OKt4kqsOvNd8kBpV65zoxbA4BVsEOB3ARVWQki/DHzaUoC5KuON/BiccDaCCTZBuOcfZs70kR8bQ==
 
-react-native-mathjax-svg@^0.9.5:
-  version "0.9.5"
-  resolved "https://registry.yarnpkg.com/react-native-mathjax-svg/-/react-native-mathjax-svg-0.9.5.tgz#a4583c349245e36f1b252cb1511253b37b6db38a"
-  integrity sha512-gue8GPDRYcBXKRwi0BqrqcbV7jbsPI2IOB8nHxlnPu9y2sAXeXN8So18wLBrt9KPUx9cRF8MGVQNnPE8ZlgRuw==
+react-native-mathjax-svg@^0.9.8:
+  version "0.9.8"
+  resolved "https://registry.npmjs.org/react-native-mathjax-svg/-/react-native-mathjax-svg-0.9.8.tgz#d759f2bafb51c5da969b9cb727c1697e2f53c56f"
+  integrity sha512-88G0hqI+eosBoH+2seQPO0nTRc9m2jSkFGOoy48icZyGihQntxSwtoKwzHJlvEhg7tzJ0nAEn069Kk8WmUPnoA==
 
 react-native-svg@^12.1.0:
   version "12.1.0"

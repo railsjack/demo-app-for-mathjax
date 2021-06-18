@@ -31,7 +31,7 @@ const App: () => React$Node = () => {
           style={styles.scrollView}>
           <Header />
           <MathJax fontSize={30} color={'red'}>
-            4sen(α)cos^2(α/2)
+            4sen(α)cos^2(α/2) \backsim \approxeq \because \beth
           </MathJax>
         </ScrollView>
       </SafeAreaView>
